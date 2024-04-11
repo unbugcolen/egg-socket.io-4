@@ -1,6 +1,6 @@
 {
-  "name": "egg-socket.io",
-  "version": "4.1.6",
+  "name": "egg-socket.io-4",
+  "version": "4.1.10",
   "description": "egg plugin for socket.io",
   "eggPlugin": {
     "name": "io",
@@ -20,12 +20,11 @@
     "delegates": "^1.0.0",
     "is-type-of": "^1.2.1",
     "koa-compose": "^4.1.0",
-    "socket.io": "^2.1.1",
-    "socket.io-redis": "^5.2.0"
+    "socket.io": "^4.7.5",
+    "socket.io-redis": "^6.1.1"
   },
   "devDependencies": {
     "@types/node": "^10.9.4",
-    "@types/socket.io": "^1.4.33",
     "autod": "^3.0.1",
     "egg": "^2.12.0",
     "egg-bin": "^4.9.0",
@@ -38,7 +37,7 @@
     "pedding": "^1.1.0",
     "rimraf": "^2.6.2",
     "semver": "^5.4.1",
-    "socket.io-client": "^2.1.1",
+    "socket.io-client": "^4.7.5",
     "supertest": "^3.3.0",
     "typescript": "^3.0.3",
     "uws": "10.148.0",
