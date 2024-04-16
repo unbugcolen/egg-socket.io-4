@@ -1,5 +1,7 @@
 # egg-socket.io
 
+**socket.io升级到4.x最新版**
+
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 [![Test coverage][codecov-image]][codecov-url]
